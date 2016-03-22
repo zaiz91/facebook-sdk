@@ -20,7 +20,7 @@ if(Meteor.isClient) {
       appId      : '{your-app-id}',
       status     : true,
       xfbml      : true,
-	  version    : 'v2.5'
+      version    : 'v2.5'
     });
   };
 }
