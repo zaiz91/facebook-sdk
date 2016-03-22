@@ -1,6 +1,7 @@
 Package.describe({
   summary: "Facebook SDK packaged for Meteor",
   version: "0.2.2",
+  name:"biasport:facebook-sdk",
   git: "https://github.com/biasport/facebook-sdk.git"
 });
 
