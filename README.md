@@ -19,7 +19,7 @@ if(Meteor.isClient) {
     FB.init({
       appId      : '{your-app-id}',
       status     : true,
-      xfbml      : truem
+      xfbml      : true,
 	  version    : 'v2.5'
     });
   };
